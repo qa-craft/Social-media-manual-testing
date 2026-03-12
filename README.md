@@ -14,11 +14,11 @@ Social Media Web Application
 
 # Modules Covered
 
-Login Module
-Profile Module
-Post Creation Module
-News Feed Module
-Messaging Module
+- Login Module
+- Profile Module
+- Post Creation Module
+- News Feed Module
+- Messaging Module
 
 ---
 
