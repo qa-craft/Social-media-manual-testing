@@ -24,10 +24,10 @@ Social Media Web Application
 
 # Testing Types Performed
 
-Functional Testing
-UI Testing
-Negative Testing
-Usability Testing
+- Functional Testing
+- UI Testing
+- Negative Testing
+- Usability Testing
 
 ---
 
